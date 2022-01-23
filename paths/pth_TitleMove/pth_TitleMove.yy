@@ -1,0 +1,27 @@
+{
+  "kind": 1,
+  "closed": false,
+  "precision": 4,
+  "points": [
+    {"speed":20.0,"x":0.0,"y":0.0,},
+    {"speed":20.0,"x":0.0,"y":2.0,},
+    {"speed":50.0,"x":0.0,"y":6.0,},
+    {"speed":150.0,"x":0.0,"y":16.0,},
+    {"speed":150.0,"x":0.0,"y":26.0,},
+    {"speed":50.0,"x":0.0,"y":30.0,},
+    {"speed":20.0,"x":0.0,"y":32.0,},
+    {"speed":20.0,"x":0.0,"y":30.0,},
+    {"speed":50.0,"x":0.0,"y":26.0,},
+    {"speed":150.0,"x":0.0,"y":16.0,},
+    {"speed":150.0,"x":0.0,"y":6.0,},
+    {"speed":50.0,"x":0.0,"y":2.0,},
+  ],
+  "parent": {
+    "name": "Paths",
+    "path": "folders/Paths.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "pth_TitleMove",
+  "tags": [],
+  "resourceType": "GMPath",
+}
